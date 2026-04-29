@@ -14,17 +14,8 @@ esse projeto ainda está muito básico, não é pra produção.
 
 ## como instalar
 
-para instalar temos dois métodos oficiais, Dockerfile e manual
-
-## método Dockerfile(recomendado por ser fácil de instalar)
-
-dê docker run
-
-```bash
-sudo docker run -it -p 5000:5000 pixelcatbr/mootube
-```
-acesse a interface web pelo endereço no terminal e pronto
-## método manual (recomendado pra uso avançado e estudo do código)
+para instalar temos um método oficial, o manual, o método docker foi removido por ser pesado demais
+## método manual
 
 para instalar primeiro precisamos copiar o código fonte do github em zip, via git clone ou interface gráfica
 
