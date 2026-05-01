@@ -1,4 +1,4 @@
-# MooTube
+# MooTube Lite
 o MooTube é um gerenciador de downloads do youtube selfhost com capacidade de organização básica e pesquisa.
 
 ## AVISO!!!
