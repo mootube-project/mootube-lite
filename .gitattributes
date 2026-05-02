@@ -1,0 +1,9 @@
+*.html linguist-vendored
+*.css linguist-vendored  
+*.js linguist-vendored
+*.py linguist-language=Python
+Dockerfile linguist-vendored*.html linguist-vendored
+*.css linguist-vendored  
+*.js linguist-vendored
+*.py linguist-language=Python
+Dockerfile linguist-vendored
